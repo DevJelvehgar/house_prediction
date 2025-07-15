@@ -1,7 +1,5 @@
 # 🏡 End-to-End Housing Price Prediction (California Housing Dataset)
 
-This project is a full pipeline machine learning workflow based on Chapter 2 of the book **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron. The goal is to predict median housing prices in California districts using various features.
-
 ## 📚 Project Overview
 
 This project walks through a complete machine learning process, from data loading to model evaluation and tuning. It demonstrates best practices in data science and machine learning engineering, including:
