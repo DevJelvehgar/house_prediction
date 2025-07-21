@@ -11,6 +11,7 @@ __pycache__/
 build/
 datasets/
 images/
+.pkl/
 develop-eggs/
 dist/
 downloads/
