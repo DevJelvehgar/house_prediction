@@ -75,7 +75,7 @@ We use the **California Housing dataset** provided by `sklearn.datasets.fetch_ca
 
 ## ✅ Results
 
-- Final RMSE around ~50,000–60,000 depending on model tuning
+- Final RMSE around ~40,000–45,000 depending on model tuning
 - Random Forest typically yields the best results
 - Pipeline is clean and production-ready
 
